@@ -1,0 +1,8 @@
+matriz de confusion
+y  = el modelo dice
+^y = en verdad son
+
+      ^y
+      1  0
+y 1  vp fp
+  0  fn vn
